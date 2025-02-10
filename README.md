@@ -19,7 +19,8 @@ Plant disease detection is crucial for farmers to maintain healthy crops. This p
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/LeafSense.git
+   git clone https://github.com/Maitrey27/LeafSense-Plant-Disease-Detection
+.git
    cd LeafSense
    ```
 2. Create a virtual environment and activate it:
@@ -67,11 +68,5 @@ Plant disease detection is crucial for farmers to maintain healthy crops. This p
 #### Results Page
 ![Results Page](demo_images/3.png)
 
-#### Supplements/Fertilizer Store
-![Store](demo_images/4.JPG)
 
-
----
-
-Feel free to contribute and improve this project!
 
